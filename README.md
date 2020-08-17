@@ -1,0 +1,2 @@
+# linearsearch
+Perform linear search
