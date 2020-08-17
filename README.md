@@ -1,2 +1,2 @@
 # linearsearch
-Perform linear search
+Perform linear search in array
