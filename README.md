@@ -1,2 +1,2 @@
 # linearsearch
-Perform linear search in array
+C program to accept a number and perform linear search in array
